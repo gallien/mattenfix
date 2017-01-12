@@ -1,0 +1,66 @@
+body {
+    margin-top: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: #687482;
+}
+hr{
+    color: #687482;
+    height: 2px;
+    margin-bottom: 80px;
+}
+
+.i1{
+    font-weight: bold;
+    color: #F93100;
+    margin-bottom: 20px;
+    margin-top: 108px;
+}
+
+.info p {
+    display: flex;
+    align-items: center;
+    margin-bottom: 17px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    line-height: 125%;
+    color: #687482;
+    margin-right: 50px;
+}
+.info p > span.check {
+    margin-right: 10px;
+    width: 75px;
+    height: 40px;
+    background: url('../images/check_mark.svg') no-repeat left;
+    background-size: 40px 40px;
+}
+
+.fullsize {
+    margin-top: 90px;
+    background-color: #3F4B58;
+    color: #FFFFFF;
+}
+
+.price hr {
+    color: #FFFFFF;
+    margin-bottom: 15px !important;
+    margin-top: 20px;
+}
+.price .container .row {
+    margin-top: 70px;
+}
+.price-titel {
+    font-size: 30px;
+}
+table.price > tbody > tr > td:nth-of-type(1) {
+     width: 79%;
+}
+.discount {
+    font-size: 20px;
+}
+table.discount > tbody > tr > td {
+    width: 33%;
+}
