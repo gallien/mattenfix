@@ -70,7 +70,7 @@ table.price > tbody > tr > td:nth-of-type(1) {
     font-size: 20px;
 }
 table.discount > tbody > tr > td:nth-of-type(3) {
-    width: 12%;
+    width: 13%;
 }
 table.discount > tbody > tr > td:nth-of-type(1) {
     width: 46%;
@@ -110,4 +110,14 @@ table.special > tbody > tr > td:nth-of-type(2) {
     height: 61px;
     background: url('../images/icon_phone.svg') no-repeat left;
     background-size: 61px 61px;
+}
+.footer {
+    background-color: #CBCFD4;
+    color: #677583;
+    font-size: 15px;
+    margin-top: 75px;
+}
+.detail-contact {
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
