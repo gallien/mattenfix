@@ -40,19 +40,27 @@ hr{
 
 .fullsize {
     margin-top: 90px;
+    margin-bottom: 70px;
     background-color: #3F4B58;
     color: #FFFFFF;
 }
 
-.price hr {
+.pricelist hr {
     color: #FFFFFF;
     margin-bottom: 15px !important;
     margin-top: 20px;
 }
-.price .container .row {
+.pricelist{
     margin-top: 70px;
+    margin-bottom: 90px;
+}
+.fullsize .container {
+    margin-bottom: 30px;
 }
 .price-titel {
+    font-size: 30px;
+}
+.price {
     font-size: 30px;
 }
 table.price > tbody > tr > td:nth-of-type(1) {
@@ -61,6 +69,22 @@ table.price > tbody > tr > td:nth-of-type(1) {
 .discount {
     font-size: 20px;
 }
-table.discount > tbody > tr > td {
-    width: 33%;
+table.discount > tbody > tr > td:nth-of-type(3) {
+    width: 12%;
+}
+table.discount > tbody > tr > td:nth-of-type(1) {
+    width: 46%;
+}
+table.discount > tbody > tr > td:nth-of-type(2) {
+    width: 29%;
+}
+table.special > tbody > tr > td:nth-of-type(2) {
+    width: 10%;
+}
+.note {
+    font-size: 15px;
+    margin-top: 45px;
+}
+.note p {
+
 }
