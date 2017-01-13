@@ -85,6 +85,29 @@ table.special > tbody > tr > td:nth-of-type(2) {
     font-size: 15px;
     margin-top: 45px;
 }
-.note p {
-
+.contact {
+    font-size: 30px;
+    color: #f93100;
+}
+.icon p {
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    line-height: 125%;
+    color: #687482;
+    margin-right: 30px;
+}
+.icon p > span.mail {
+    margin-right: 10px;
+    width: 75px;
+    height: 61px;
+    background: url('../images/icon_email.svg') no-repeat left;
+    background-size: 61px 61px;
+}
+.icon p > span.phone {
+    margin-right: 10px;
+    width: 75px;
+    height: 61px;
+    background: url('../images/icon_phone.svg') no-repeat left;
+    background-size: 61px 61px;
 }
