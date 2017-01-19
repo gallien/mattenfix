@@ -87,13 +87,12 @@ table.discount > tbody > tr > td:nth-of-type(2) {
 table.special > tbody > tr > td:nth-of-type(2) {
     width: 10%;
 }
+
 .note {
     margin-top: 45px;
-    margin-bottom: 42px;
+    margin-bottom: 45px;
     font-size: 15px;
-}
-.note p {
-    margin-bottom: 3px;
+    line-height: 20px;
 }
 
 .media-body h5 {
