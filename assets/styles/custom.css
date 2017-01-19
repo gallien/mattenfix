@@ -2,72 +2,69 @@ body {
     margin-top: 60px;
     font-family: 'Montserrat', sans-serif;
 }
-h4 {
-    font-family: 'Montserrat', sans-serif;
+h1 {
+    margin-top: 108px;
+    font-family: 'Montserrat Light', sans-serif;
     font-size: 40px;
+    color: #F93100;
+    line-height: 50px;
+    }
+h2 {
+    margin-bottom: 30px;
     color: #687482;
+    font-family: 'Montserrat Bold', sans-serif;
+    font-size: 40px;
 }
 hr{
+    margin-bottom: 80px;
     color: #687482;
     height: 2px;
-    margin-bottom: 80px;
 }
 
-.i1{
-    font-weight: bold;
-    color: #F93100;
-    margin-bottom: 20px;
-    margin-top: 108px;
-}
-
-.info p {
-    display: flex;
-    align-items: center;
-    margin-bottom: 17px;
-    padding-bottom: 15px;
+.info {
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
-    line-height: 125%;
-    color: #687482;
-    margin-right: 50px;
-}
-.info p > span.check {
-    margin-right: 10px;
-    width: 75px;
-    height: 40px;
-    background: url('../images/check_mark.svg') no-repeat left;
-    background-size: 40px 40px;
+    color: #7A8692;
 }
 
 .fullsize {
     margin-top: 90px;
     margin-bottom: 70px;
     background-color: #3F4B58;
+    font-family: 'Montserrat Light', sans-serif;
+    font-size: 30px;
     color: #FFFFFF;
 }
 
 .pricelist hr {
-    color: #FFFFFF;
     margin-bottom: 15px !important;
-    margin-top: 20px;
+    margin-top: 9px;
+    color: #FFFFFF;
 }
 .pricelist{
-    margin-top: 70px;
-    margin-bottom: 90px;
+    margin-top: 26px;
+    margin-bottom: 35px;
+}
+.dose-lang img {
+    margin-left: 204px;
+    height: 490px;
 }
 .fullsize .container {
     margin-bottom: 30px;
 }
-.price-titel {
-    font-size: 30px;
-}
-.price {
-    font-size: 30px;
-}
 table.price > tbody > tr > td:nth-of-type(1) {
-     width: 79%;
+     width: 80%;
 }
 .discount {
     font-size: 20px;
+}
+.special img {
+    position: absolute;
+    font-size: 30px;
+    width: 18%;
+    top: 32%;
+    right: 2%;
+    z-index: 1;
 }
 table.discount > tbody > tr > td:nth-of-type(3) {
     width: 13%;
@@ -81,35 +78,32 @@ table.discount > tbody > tr > td:nth-of-type(2) {
 table.special > tbody > tr > td:nth-of-type(2) {
     width: 10%;
 }
-.note {
-    font-size: 15px;
-    margin-top: 45px;
+.special {
+    margin-top: 30px;
 }
-.contact {
+.note {
+    margin-top: 45px;
+    margin-bottom: 42px;
+    font-size: 15px;
+}
+.note p {
+    margin-bottom: 3px;
+}
+.contact h4 {
+    margin-left: 136px;
     font-size: 30px;
     color: #f93100;
+    font-family: 'Montserrat Light', sans-serif;
 }
-.icon p {
-    display: flex;
-    align-items: center;
+.icon h3 {
     font-size: 40px;
-    line-height: 125%;
-    color: #687482;
-    margin-right: 30px;
+    color: #677482;
+    font-family: 'Open Sans Light', sans-serif;
+
 }
-.icon p > span.mail {
-    margin-right: 10px;
-    width: 75px;
-    height: 61px;
-    background: url('../images/icon_email.svg') no-repeat left;
-    background-size: 61px 61px;
-}
-.icon p > span.phone {
-    margin-right: 10px;
-    width: 75px;
-    height: 61px;
-    background: url('../images/icon_phone.svg') no-repeat left;
-    background-size: 61px 61px;
+.icon .media:first-child {
+    margin-top: 0;
+    margin-bottom: -19px;
 }
 .footer {
     background-color: #CBCFD4;
@@ -120,4 +114,14 @@ table.special > tbody > tr > td:nth-of-type(2) {
 .detail-contact {
     margin-bottom: 40px;
     margin-top: 40px;
+}
+
+ /*Responsiv*/
+@media only screen and (max-width: 768px) {
+    .dose-lang img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
 }
