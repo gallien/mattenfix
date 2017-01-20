@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="64989e4d-6632-41cd-bf95-e16c7a89d706" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/custom.css" afterPath="$PROJECT_DIR$/assets/styles/custom.css" />
     </list>
     <ignored path="mattenfix.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -260,7 +259,7 @@
       <workItem from="1484835293301" duration="6872000" />
       <workItem from="1484863805351" duration="1234000" />
       <workItem from="1484904257383" duration="4606000" />
-      <workItem from="1484932691599" duration="3392000" />
+      <workItem from="1484932691599" duration="3409000" />
     </task>
     <task id="LOCAL-00001" summary="set up">
       <created>1484221519363</created>
@@ -367,11 +366,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484935079515</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="font weight th change">
+      <created>1484937632512</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1484937632512</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58627000" />
+    <option name="totallyTimeSpent" value="58644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1092" extended-state="0" />
