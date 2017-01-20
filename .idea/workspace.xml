@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64989e4d-6632-41cd-bf95-e16c7a89d706" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/custom.css" afterPath="$PROJECT_DIR$/assets/styles/custom.css" />
     </list>
     <ignored path="mattenfix.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +27,8 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/styles/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+            <state relative-caret-position="301">
+              <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -36,7 +37,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1581">
+            <state relative-caret-position="261">
               <caret line="184" column="10" selection-start-line="184" selection-start-column="10" selection-end-line="184" selection-end-column="10" />
               <folding>
                 <element signature="e#5780#5786#0" expanded="true" />
@@ -259,7 +260,7 @@
       <workItem from="1484835293301" duration="6872000" />
       <workItem from="1484863805351" duration="1234000" />
       <workItem from="1484904257383" duration="4606000" />
-      <workItem from="1484932691599" duration="1676000" />
+      <workItem from="1484932691599" duration="3392000" />
     </task>
     <task id="LOCAL-00001" summary="set up">
       <created>1484221519363</created>
@@ -352,11 +353,25 @@
       <option name="project" value="LOCAL" />
       <updated>1484934371863</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="check benötigt">
+      <created>1484934389941</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1484934389941</updated>
+    </task>
+    <task id="LOCAL-00015" summary="font weight th change">
+      <created>1484935079515</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1484935079515</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56911000" />
+    <option name="totallyTimeSpent" value="58627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1092" extended-state="0" />
@@ -398,7 +413,8 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/gallien/mattenfix&#10;&#10;# Conflicts:&#10;#&#9;index.html&#10;" />
     <MESSAGE value="responsive" />
     <MESSAGE value="check benötigt" />
-    <option name="LAST_COMMIT_MESSAGE" value="check benötigt" />
+    <MESSAGE value="font weight th change" />
+    <option name="LAST_COMMIT_MESSAGE" value="font weight th change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -868,7 +884,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
+        <state relative-caret-position="261">
           <caret line="184" column="10" selection-start-line="184" selection-start-column="10" selection-end-line="184" selection-end-column="10" />
           <folding>
             <element signature="e#5780#5786#0" expanded="true" />
@@ -887,8 +903,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+        <state relative-caret-position="301">
+          <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
           <folding />
         </state>
       </provider>
