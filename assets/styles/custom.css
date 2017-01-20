@@ -112,8 +112,6 @@ table.special > tbody > tr > td:nth-of-type(2) {
     font-size: 15px;
 }
 
-@media only screen and (max-width: 768px) {
-    .special img {
-        top: 37%;
-    }
+footer img {
+    width: 100%;
 }
