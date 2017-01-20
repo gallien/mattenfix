@@ -55,6 +55,7 @@ hr {
 th {
     border-bottom: 1px solid #ffffff;
     border-top: 1px solid #ffffff;
+    font-weight: normal;
 }
 table {
     border-bottom: 1px solid #ffffff;
